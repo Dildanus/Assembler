@@ -1,0 +1,3 @@
+This project is done in MIPS microprocessor language. IDE used to write the code was MARS.
+
+The program takes an input a binary file with instructions and outputs a bitmap image. The way the program works is basically a simplified version of the popular 'Imagine' IDE, used to write in Logo language. The turtle from Imagine (which in our case would be an invisible marker) can move left, right, up and down as well as turn and draw lines using different colors. We invoke these moves by jumping to a point in the code that instructs the processor on what to do. Assembly is for masochists and I hate it : ^)
